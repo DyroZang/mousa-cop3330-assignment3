@@ -1,0 +1,12 @@
+1. Create the main method
+2. Create a reader method
+3. Inside the reader method go through word by word and read the input file
+    1. Inside the loop reading the input file, add each word to a map
+    2. Everytime you see that same word again, add one to the value
+4. Return the map to the main method
+5. Call the printer method, with the map as a parameter
+6. In the printer method
+    1. Loop through the map of values, storing all the values to a list
+    2. Sort the list
+    3. Reverse the sorted list
+    4. Print out all the keys + values formatted, in that descending order

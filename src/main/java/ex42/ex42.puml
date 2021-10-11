@@ -1,0 +1,7 @@
+@startuml
+class ex42.App {
+~ {static} void printer(ArrayList<String>)
+~ {static} void reader()
++ {static} void main(String[])
+}
+@enduml

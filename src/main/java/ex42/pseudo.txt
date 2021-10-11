@@ -1,0 +1,7 @@
+1. Create the printer method
+2. Create the reader method
+3. Create the main method
+4. In the reader method create a check for file and read in the values
+5. Pass all that information into the printer file
+6. In the printer file print out the fancy stuff at the top
+7. Use a loop to loop through all the values and print them with print formatting

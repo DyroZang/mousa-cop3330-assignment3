@@ -1,0 +1,8 @@
+@startuml
+class ex43.App {
+~ {static} void printer(String[])
+~ {static} void establishFiles(String[])
+~ {static} String[] prompter(String[])
++ {static} void main(String[])
+}
+@enduml

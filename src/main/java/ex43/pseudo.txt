@@ -1,0 +1,9 @@
+1. Create the main method, which establishes the basic website dir and calls the prompter
+2. Create the prompter function
+3. In the prompter function ask for all the information (site name, author, js, css)
+4. Pass all the information to the processor
+5. In the processor create all the necessary files
+6. create the html file in one long format statement
+7. create the directories for the new folders with js or css if necessary
+8. pass all the information about what was created into the printer function to print out what was done
+9. Done!

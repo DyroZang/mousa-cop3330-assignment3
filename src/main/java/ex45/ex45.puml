@@ -1,0 +1,8 @@
+@startuml
+class ex45.App {
+~ {static} void newFiler(String)
+~ {static} String readFile()
+~ {static} String replacer(String,String,String)
++ {static} void main(String[])
+}
+@enduml

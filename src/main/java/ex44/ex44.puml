@@ -1,0 +1,13 @@
+@startuml
+class ex44.App {
+~ {static} int searchAndPrint(String,Product[])
+~ {static} void prompter(Product[])
++ {static} void main(String[])
+}
+class ex44.Product {
+~ String name
+~ double price
+~ long quantity
+~ {static} Product[] findProducts()
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class ex41.App {
+~ {static} ArrayList<String> sorter(ArrayList<String>)
+~ {static} void reader()
+~ {static} void printer(ArrayList<String>)
++ {static} void main(String[])
+}
+@enduml

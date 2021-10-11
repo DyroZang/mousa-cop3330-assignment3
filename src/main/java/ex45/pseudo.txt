@@ -1,0 +1,9 @@
+1. Create the main method
+2. Inside of the main class create a string that houses the input text
+3. Run that string through another method which grabs the input text and fills it
+4. Grabs the input text with a loop concatenating to a string
+5. Then use java's replace method to replace all the "utilizes" with "use" inside of our own replace method
+6. Then print it all out to a file in another method
+7. In the new printer method prompt the user for the filename
+8. Make whatever name they input a .txt
+9. Create the file then print out to it

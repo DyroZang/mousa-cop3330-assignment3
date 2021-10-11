@@ -1,0 +1,26 @@
+Main class
+    reader method
+        Establish the array list
+
+        test for the file and take in all the lines
+            Add the names in the file to an array list
+
+        return the array list
+
+    sorter method
+        Use java's built in sorter method
+
+        return the sorted arraylist
+
+    printer method
+        print out all the fancy stuff before the names in a separate file
+
+        use a loop to loop through all the names in the array list
+            print out the names in the array list
+
+    main method
+        Create an array list that is equal to the reader method
+
+        run the sorter method on the list
+
+        run the printer method on the list
